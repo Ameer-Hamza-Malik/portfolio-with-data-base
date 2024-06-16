@@ -38,6 +38,16 @@ h2 {
     height: 6px;
     background-color: green;
 }
+.seventy{
+    width: 225px;
+    height: 6px;
+    background-color: gold;
+}
+.ninty{
+    width: 275px;
+    height: 6px;
+    background-color: rgb(93, 226, 226);
+}
 .fifty{
     width: 150px;
     height: 6px;
